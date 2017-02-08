@@ -18,7 +18,7 @@ comments:
 
 
 
-## 博文
+## 博文列表
 
 {% for post in site.posts %}
 1. {{post.date|date_to_string}} [{{post.title}}]({{post.url}})
