@@ -9,4 +9,4 @@ title: 加精博文?
 
 [words.html](words.html)
 
-[吐槽list\(to-do\).html](吐槽list\(to-do\).html)
+[吐槽list(to-do).html](吐槽list(to-do).html)
