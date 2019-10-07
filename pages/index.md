@@ -1,12 +1,21 @@
 ---
 title: 加精博文?
 ---
-
-
-[More两个人在一起.md](More两个人在一起.md)
-[cmd.md](cmd.md)
-[girls.md](girls.md)
-[index.md](index.md)
-[things_I_dont_know.md](things_I_dont_know.md)
-[words.md](words.md)
-[吐槽list.md](吐槽list.md)
+- [More两个人在一起.md](More两个人在一起.md)
+- [cmd.md](cmd.md)
+- [girls.md](girls.md)
+- [index.md](index.md)
+- [things_I_dont_know.md](things_I_dont_know.md)
+- [vim投稿-我和vim.md](vim投稿-我和vim.md)
+- [words.md](words.md)
+- [电影-生活多美好-吗.md](电影-生活多美好-吗.md)
+- [吐槽list.md](吐槽list.md)
+- [静不下来的心.md](静不下来的心.md)
+- [养小孩有什么好的.md](养小孩有什么好的.md)
+- [到底哪个才是现实.md](到底哪个才是现实.md)
+- [第一次刷机的体验.md](第一次刷机的体验.md)
+- [一个公式还原魔方Cuber_吴克参赛作品点评.md](一个公式还原魔方Cuber_吴克参赛作品点评.md)
+- [曾经我想过搞个活动,用一个公式还原魔方.md](曾经我想过搞个活动,用一个公式还原魔方.md)
+- [自己的客人自己招呼.md](自己的客人自己招呼.md)
+- [身价千万活得不如狗？.md](身价千万活得不如狗？.md)
+- [一个公式还原魔方逛街买菜打酱油参赛作品点评.md](一个公式还原魔方逛街买菜打酱油参赛作品点评.md)
